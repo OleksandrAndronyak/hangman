@@ -26,10 +26,10 @@
 - Code style Prettier
 
 # Components 📚
-✔️ Hangman.js
-✔️ Helper.js
-✔️ Words.js
-✔️ Popup.js
+✔️ Hangman.js\
+✔️ Helper.js\
+✔️ Words.js\
+✔️ Popup.js\
 
 # Clone And Use 📋
 
@@ -42,7 +42,7 @@
 - This will clone the whole repository into your system.
 - To download required dependencies to your system and run the application at the same time navigate to the directory where the cloned repository resides and execute the following command:
  - ```python
-    npm install
+    npm start
    ```
 - The project will download all dependencies and run by itself opening locally the website in your browser.
 
