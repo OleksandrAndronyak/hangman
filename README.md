@@ -29,7 +29,7 @@
 ✔️ Hangman.js\
 ✔️ Helper.js\
 ✔️ Words.js\
-✔️ Popup.js\
+✔️ Popup.js
 
 # Clone And Use 📋
 
