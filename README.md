@@ -1,3 +1,6 @@
+<h1 align="center">Hangman Game 🥳</h1>
+<h2 align="center">A clean, beautiful, responsive and 100% customizable Game.</h2>
+
 <p align="center">
   <img src="./src/components/images/home.png" align="center" width="400" height="400" />
   <img src="./src/components/images/win.png" align="center" width="400" height="400" />
@@ -17,9 +20,6 @@
 
 6.If the Player correctly guesses all the letters in the secret word, the game is over and the player wins.
 
-
-<h1 align="center">Hangman Game 🥳</h1>
-<h2 align="center">A clean, beautiful, responsive and 100% customizable Game.</h2>
 
 - Made with React
 - Styled with CSS
